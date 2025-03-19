@@ -29,6 +29,10 @@ Implement at least three search algorithms:
 - **Advanced Search Techniques**: Use Genetic Algorithms, Simulated Annealing, or Multi-Objective Optimization.
 - **Ethical and Societal Implications**: Discuss automation's impact on employment and sustainability.
 
+### Dependencies needs to be installed
+- **NetworkX**: `pip install networkx`
+- **Plotly** `pip install plotly`
+
 ## Coursework 3: Wildlife Preservation Strategy Simulator
 ### Description
 This project simulates a **Wildlife Preservation Strategy Game**, modeled after **Tic-Tac-Toe**, to help conservationists balance habitat preservation and urban development pressures. The AI opponent represents environmental threats, and the player takes actions to protect biodiversity.
